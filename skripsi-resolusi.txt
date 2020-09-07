@@ -2,4 +2,4 @@ WPU RESOLUSI
 - Konsisten menggunakan git dalam mengerjakan skripsi
 - Skripsi selesai sebelum 2021
 - Lulus STIS Tahun 2021
-- Membantu teman saya sebisa mungkin untuk lulus juga
+- Membantu teman dalam pengerjaan skripsi
