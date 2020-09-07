@@ -1,6 +1,7 @@
 Rencana penyusunan
 - mencari tema alternatif
   * membaca skripsi kating di simpus
+  * mencari relevansi dengan kondisi saat ini
 - membuat proposal skripsi
   * baca dulu panduan proposal skripsi
   * mulai buat template nya dan jangan ngestuck di satu titik
